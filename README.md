@@ -1,2 +1,2 @@
 # python_valentine_code
-A gift to my boyfriend for Valentine's Day while learning python's basics.
+Learning python's basics while making a valentine present for nerds.
